@@ -6,7 +6,7 @@ import os
 import shutil
 from bs4 import BeautifulSoup
 
-SHODAN_API_KEY = '***SECRET_SUPPRIME***'
+SHODAN_API_KEY = ''
 
 GOOGLE_NEWS_URL = "https://www.google.com/search?q={}&tbm=nws"
 YANDEX_IMAGE_SEARCH = "https://yandex.com/images/search?text={}"
