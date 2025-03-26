@@ -1,0 +1,9 @@
+MIT License
+
+Copyright (c) 2025 NoWa-FTN
+
+Par la présente, il est accordé, sans restriction, à toute personne obtenant une copie de ce logiciel et des fichiers de documentation associés à "T-QI", d'utiliser le Logiciel sans limitation, y compris sans limitation les droits d'utilisation, de modification, de fusion, de publication, de distribution, de sous-licence et/ou de vente du Logiciel, et de permettre aux personnes auxquelles le Logiciel est fourni de le faire, sous réserve des conditions suivantes :
+
+L'avis de copyright ci-dessus et cet avis de permission doivent être inclus dans toutes les copies ou parties substantielles du Logiciel.
+
+LE LOGICIEL EST FOURNI "TEL QUEL", SANS GARANTIE D'AUCUNE SORTE, EXPLICITE OU IMPLICITE, Y COMPRIS MAIS SANS S'Y LIMITER À LA GARANTIE DE COMMERCIALISATION, D'APTITUDE À UN OBJECTIF PARTICULIER ET DE NON-VIOLATION. EN AUCUN CAS LES AUTEURS OU DÉTENTEURS DU COPYRIGHT NE POURRONT ÊTRE TENUS RESPONSABLES DE TOUTE RÉCLAMATION, DOMMAGES OU AUTRES RESPONSABILITÉS, QU'ILS SOIENT DANS UNE ACTION EN GARANTIE, EN CONTRAT, OU DÉLICTUELLE, DÉCOULANT DE, OU EN RELATION AVEC LE LOGICIEL OU L'UTILISATION OU AUTRES TRAITEMENTS DU LOGICIEL.
